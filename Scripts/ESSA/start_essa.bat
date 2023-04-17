@@ -1,0 +1,1 @@
+call start_essa_back.bat & echo "aquí va el comando para iniciar el front"
